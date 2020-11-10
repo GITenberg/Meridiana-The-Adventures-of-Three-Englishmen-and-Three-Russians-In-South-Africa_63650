@@ -1,11 +1,14 @@
 _repo: Meridiana-The-Adventures-of-Three-Englishmen-and-Three-Russians-In-South-Africa_63650
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Unknown
     gutenberg_agent_id: '49'
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/ebooks/author/216
+covers:
+- cover_type: archival
+  image_path: 63650-h/images/cover.jpg
 creator:
   author:
     agent_name: Verne, Jules
@@ -22,6 +25,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Verne
     - http://en.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63650#Meridiana-The-Adventures-of-Three-Englishmen-and-Three-Russians-In-South-Africa
 gutenberg_issued: '2020-11-06'
 gutenberg_type: Text
 identifiers:
